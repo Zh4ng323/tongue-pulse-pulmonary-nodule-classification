@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite the accompanying manuscript."
+title: "Distinguishing Lung Cancer from Benign Pulmonary Nodules Using Features Derived from Tongue Images and Pulse Waveforms: An Interpretable Machine Learning Study"
+type: software
+license: MIT
+repository-code: "https://github.com/Zh4ng323/tongue-pulse-pulmonary-nodule-classification"
+authors:
+  - given-names: Yulin
+    family-names: Shi
+    equal-contributor: true
+  - given-names: Guohao
+    family-names: Zhang
+    equal-contributor: true
+  - given-names: Shuyi
+    family-names: Zhang
+  - given-names: Changsheng
+    family-names: Dong
+  - given-names: Ling
+    family-names: Xu
+  - given-names: Hongkai
+    family-names: Zhang
+    corresponding: true
+  - given-names: Wenlian
+    family-names: Chen
+    corresponding: true
+  - given-names: Jiatuo
+    family-names: Xu
+    corresponding: true
